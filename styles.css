@@ -60,6 +60,6 @@ a h1:hover{
 }
 @font-face{
     font-family: Figtree Extra Bold;
-    src: url(/font/fonts/Figtree-VariableFont_wght.ttf);
+    src: url(./font/fonts/Figtree-VariableFont_wght.ttf);
     font-weight: 900;
 }
