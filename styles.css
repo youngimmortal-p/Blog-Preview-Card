@@ -47,7 +47,7 @@ a h1:hover{
 #main-page a h1{
     font-weight: 500;
     font-size: 20px;
-    font-family: Figtree Bold;
+    font-family: Figtree medium;
 }
 .desc{
     display: inline-flex;
